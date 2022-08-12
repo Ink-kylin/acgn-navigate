@@ -1,13 +1,10 @@
 
 **绘画师**
 
-**国内**
-- [アヤ／Aya](https://www.pixiv.net/users/3728486/artworks)
+**中国**
 
+- [アヤ／Aya](https://www.pixiv.net/users/3728486/artworks)
 - [YDIYA-](https://weibo.com/YDIYA)
-- [Akizone](https://twitter.com/Akizone)
-- [siki](https://twitter.com/chyoellll)
-- [￦ＡＮＫＥ](https://twitter.com/Classic_W_)
 - [Bison仓鼠](https://weibo.com/u/1731549793)
 - [和子君](https://weibo.com/u/2264501470)
 - [疯九乱](https://weibo.com/u/7292155347)
@@ -18,52 +15,63 @@
 - [裸奔烫猫子](https://weibo.com/u/2710448195)
 - [杉泽](https://weibo.com/yourviki)
 - [ttttks](https://weibo.com/u/6424352339)
-- [AkiZero](https://linktr.ee/AkiZero)
-- [NIXEU](https://afdian.net/@nixeu)
-- [Dao Trong Le](https://daole.artstation.com/)
-- [ぷぅ崎ぷぅ奈](https://www.pixiv.net/users/2627037)
-- [Egami(えがみ)](https://www.pixiv.net/users/64390150)
-- [EB十](https://www.pixiv.net/users/2345928 "EB十")
-- [T5](https://www.pixiv.net/users/4819066)
-- [2SHAM](https://www.pixiv.net/users/43104406)
-- [ヒトこもる](https://www.pixiv.net/users/30837811)
-- [hotumoyi拾六](https://www.pixiv.net/users/12696075)
+- [T5](https://twitter.com/thornsdance)
+- [hotumoyi拾六](https://twitter.com/hitomio16)
 - [儀式](https://www.pixiv.net/users/16275159/artworks)
-- [モ誰](https://www.pixiv.net/users/1878082)
-- [Vladimir Volegov](https://volegov.com/)
+- [螺丝辣翅面](https://weibo.com/u/5329902398?is_all=1)
+- [花铭__](https://space.bilibili.com/19916355)
+- [AYU](https://www.artstation.com/ayu-cn)
 
 **日本**
 
+- [ヒトこもる](https://twitter.com/Hitoimim)
+- [モ誰](https://twitter.com/jeonghee1414)
+- [siki](https://twitter.com/chyoellll)
 - [袁藤冲人]()
 - [村田莲尔](https://www.pseweb.com/)
 - [jonsun](https://www.pixiv.net/users/60182)
 - [お久しぶり](https://twitter.com/imlllsn)
-- 八宝备仁
+- [米山舞](https://twitter.com/yoneyamai)
+- [八宝備仁](https://twitter.com/HAPPOBIJIN)
 - 市川小紗
 - 吉野恵子
-- 野々原幹
+- [ぢょん](https://twitter.com/nonohara_dyon3/media )
+- [BIYA](https://www.pixiv.net/users/59275588/artworks)
+- [marumoru 日曜東 A55b](https://www.pixiv.net/users/4655878)
+- [Egami(えがみ)](https://twitter.com/Egami_Mal)
+- [ぷぅ崎ぷぅ奈](https://twitter.com/punopupupu)
+- [Kantoku](https://www.pixiv.net/users/1565632)
+
+
 **韩国**
 
+- [EB十](https://twitter.com/ebkim00)
+- [￦ＡＮＫＥ](https://twitter.com/Classic_W_)
 - [KKUEMㆍクエム](http://kkuem.net/)
-	- [pixiv](https://www.pixiv.net/users/45438)
 - [Shal.E](https://www.pixiv.net/users/10705197)
 - [TaeKwon Kim](https://taekwonkim.artstation.com/)
 - [wonbin lee](https://lwbv2001.artstation.com/)
 - [KyuYong Eom](https://kyuyongeom.artstation.com/)
 
-**俄罗斯**
+**其他**
 
+- [Aduare](https://twitter.com/Aduare_rp)
+- [2SHAM](https://www.pixiv.net/users/43104406)
+- [Akizone](https://www.pixiv.net/users/2156525)
+- [AkiZero](https://linktr.ee/AkiZero)
+- [NIXEU](https://twitter.com/N_I_X_E_U)
 - [Anna Marinova](https://art-icon.com/en/artists/marinova-anna/)
+- [Vladimir Volegov](https://volegov.com/)
+- [Dao Trong Le](https://daole.artstation.com/)
 
 ## 论坛
 
 
 
 - [ArtStation](https://www.artstation.com)
-
+- [pixiv](https://www.pixiv.net/)
 
 **动画师**
 
-
-- [たる丸]()(https://twitter.com/tarumaru0/media)
+- [たる丸](https://twitter.com/tarumaru0/media)
 

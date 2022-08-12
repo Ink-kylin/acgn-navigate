@@ -21,6 +21,14 @@ Imperial Harem (中文:帝国后宫)
 
 ## 未下载
 
+Helltaker
+
+Extralife
+
+日向千寻的工作总是做不久
+
+[異世界酒場のセクステット ～Vol.3 Postlude Days～](https://galge.fun/subjects/9622)
+
 [ホームメイドスイートピー](http://silkysconnect.jp/homemaid/index.html)
 
 [To Heart](https://zh.moegirl.org.cn/ToHeart)
@@ -58,7 +66,9 @@ Strawberry Nauts
 **galgame**
 
 
-## 日本[Galgame](https://zh.moegirl.org.cn/Galgame "Galgame")公司
+## Galgame 公司
+
+**日本**
 
 |      系别       | 公司 |
 |:---------------:|:----:|
@@ -73,7 +83,6 @@ Strawberry Nauts
 |     ACID系      |      |
 | Robo Planning系 |      |
 |                 |      |
-
 
 
 - [Atelier KAGUYA-竹子社](http://www.a-kaguya.com/)
@@ -91,6 +100,13 @@ Strawberry Nauts
 - [MARMALADE](http://www.web-marmalade.com/index2.html)
 - [FAVORITE](http://www.favo-soft.jp/soft/top.html)
 - [CRYSTALiA-水晶社](http://crystalia.amusecraft.com/)
+- [qureate](https://qureate.co.jp/)
+- [HIKARI FIELD](https://store.hikarifield.co.jp/)
+
+**中国**
+
+发行商
+- [Kagura Games](https://www.kaguragames.com/)
 
 
 
@@ -119,7 +135,7 @@ Strawberry Nauts
 
 - [批评空间](http://erogamescape.dyndns.org/)
 - [Getchu](http://www.getchu.com/top.html)
-
+- [DMM.com](https://www.dmm.com/)
 **欧美**
 
 - [The Visual Novel Database](https://vndb.org/)
