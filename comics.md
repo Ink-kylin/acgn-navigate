@@ -2,6 +2,8 @@
 
 ## 待收录
 
+养女仆开后宫
+
 好想让女孩子露出嫌弃表情给我看胖次啊 ～我想看胖次啊～
 
 深渊
@@ -38,6 +40,8 @@ YES, My Darling
 
 全知读者视角
 
+星座圣人大战
+
 **中国**
 
 祖师爷下山
@@ -62,7 +66,15 @@ YES, My Darling
 
 ## 论坛
 
-**日本**
 
-- [pocket](https://pocket.shonenmagazine.com/)
 - [Comic/R18](https://r18.cmz.jp/)
+
+
+# 漫画网站
+
+| 国家 | 网站                                                                                                                                                                                                                                                                                            |     |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 日本 |    [Pocket](https://pocket.shonenmagazine.com/) •  [# 周刊少年Jump](https://www.shonenjump.com/j/index.html) • [Pixiv 漫画](https://www.pixiv.net/manga) • [niconico 静画](https://seiga.nicovideo.jp/)                                                                                                                                                                                                                                                                                         |     |
+| 韩国 | [Webtoon](https://www.webtoons.com/zh-hant/) • [Toomics](https://toomics.com/sc) • [Bomtoon](https://www.bomtoon.com/) • [Comico](https://www.comico.kr/) • [KAKAO WEBTOON](https://tw.kakaowebtoon.com) • [kakaopage](https://page.kakao.com/main) • [Lezhin Comics](https://www.lezhinus.com) • [Naver webtoon](https://webtoonscorp.com/) • [Toptoon](https://www.toptoon.net/) |     |
+| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/)                                                                                                                                   |     |
+| 欧美     |                                                                                                                                                                                                                                                                                                 |     |

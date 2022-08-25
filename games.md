@@ -1,27 +1,9 @@
-## 已下载
-
-現実が見えてきたので少女を愛するのを辞めました
+# 游戏
 
 
-恶魔石板与犬公主
-
-[LOVE IS UNDEAD ラブ・イズ・アンデッド](https://www.dlsite.com/maniax/work/=/product_id/RJ367308.html)
-
-[SEQUEL blight リーフジオメトリ ](https://www.dlsite.com/maniax/work/=/product_id/RJ291359.html)
-
-[ハッピーライヴ ショウアップ！](http://www.favo-soft.jp/soft/product/happylive_showup/index.html)
-
-Imperial Harem (中文:帝国后宫)
-
-妹!せいかつ ～モノクローム～ (中文:[妹！生活~单色~](https://zh.moegirl.org.cn/%E5%A6%B9!%E7%94%9F%E6%B4%BB~%E5%8D%95%E8%89%B2~))
-
-童贞兄妹
-
-彼女x彼女x彼女
 
 ## 未下载
 
-Helltaker
 
 Extralife
 
@@ -35,7 +17,6 @@ Extralife
 
 Secret Pie
 
-和散漫的同学一起生活
 
 僕の未来は、恋と課金と。～Charge To The Future～
 
@@ -88,6 +69,7 @@ Strawberry Nauts
 - [Atelier KAGUYA-竹子社](http://www.a-kaguya.com/)
 - [AzarashiSoft-海豹社](http://azarashi-soft.nexton-net.jp/)
 - [CRYSTALiA-水晶社](http://crystalia.amusecraft.com/)
+- [CUBE](http://www.cuffs.co.jp/)
 - [Qruppo](https://qruppo.com/)
 - [Aino+Links](http://ainolinks.com/)
 - [HARUKAZE](http://harukaze-soft.com/?top)
@@ -136,6 +118,8 @@ Strawberry Nauts
 - [批评空间](http://erogamescape.dyndns.org/)
 - [Getchu](http://www.getchu.com/top.html)
 - [DMM.com](https://www.dmm.com/)
+- [[https://www.hifast.cn/sites/3420.html)https://seiya-saiga.com/|誠也の部屋]]
+
 **欧美**
 
 - [The Visual Novel Database](https://vndb.org/)
