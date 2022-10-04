@@ -1,6 +1,28 @@
 # 漫画
 
-## 待收录
+
+**其他**
+
+史诗级枪骑士再临
+
+
+**日本**
+
+| 分类 | 名称 |
+| ---- | ---- |
+| 恋爱     |  超超超超超喜欢你的100个女朋友    |
+
+
+闲散农家的乱码技能
+魔都精兵的奴隶
+
+孔雀王
+
+月色のインベーダー | 月色的入侵者
+
+女子学校的向日老师
+
+異世界日本～暗殺一家の三男は異界化した日本で無双する
 
 养女仆开后宫
 
@@ -13,8 +35,6 @@
 甘神さんちの縁結び (缘结甘神家)
 
 被一眼看穿的虹目同学
-
-真·孔雀王
 
 恋爱无法被双子除尽
 
@@ -38,11 +58,22 @@ YES, My Darling
 
 **韩国**
 
+富家女姐姐
+
+这个世界的后宫骑士 This World’s Harem Knight
+
 全知读者视角
 
 星座圣人大战
 
 **中国**
+
+[Re.MαiΚΛ] 隐匿之恶
+
+
+我的女友怪怪的
+
+时隔万年回归的玩家
 
 祖师爷下山
 
@@ -63,18 +94,13 @@ YES, My Darling
 [冰雪公主与沙滩男孩](https://www.bilibili.com/video/BV13Z4y1b7cu?spm_id_from=333.999.0.0&vd_source=5bf05843ff6ab5a61fa9a5d950358621)
 
 
-
-## 论坛
-
-
-- [Comic/R18](https://r18.cmz.jp/)
-
-
 # 漫画网站
 
 | 国家 | 网站                                                                                                                                                                                                                                                                                            |     |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 日本 |    [Pocket](https://pocket.shonenmagazine.com/) •  [# 周刊少年Jump](https://www.shonenjump.com/j/index.html) • [Pixiv 漫画](https://www.pixiv.net/manga) • [niconico 静画](https://seiga.nicovideo.jp/)                                                                                                                                                                                                                                                                                         |     |
+| 日本 |   [Comic/R18](https://r18.cmz.jp/) [Pocket](https://pocket.shonenmagazine.com/) •  [# 周刊少年Jump](https://www.shonenjump.com/j/index.html) • [Pixiv 漫画](https://www.pixiv.net/manga) • [niconico 静画](https://seiga.nicovideo.jp/) • [comic-walker](https://comic-walker.com/)                                                                                                                                                                                                                                                                                        |     |
 | 韩国 | [Webtoon](https://www.webtoons.com/zh-hant/) • [Toomics](https://toomics.com/sc) • [Bomtoon](https://www.bomtoon.com/) • [Comico](https://www.comico.kr/) • [KAKAO WEBTOON](https://tw.kakaowebtoon.com) • [kakaopage](https://page.kakao.com/main) • [Lezhin Comics](https://www.lezhinus.com) • [Naver webtoon](https://webtoonscorp.com/) • [Toptoon](https://www.toptoon.net/) |     |
-| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/)                                                                                                                                   |     |
-| 欧美     |                                                                                                                                                                                                                                                                                                 |     |
+| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/)  [拷贝漫画](https://www.copymanga.site)                                                                                                                                  |     |
+| 欧美     | [Tachiyomi](https://tachiyomi.org/) [mangakuto](https://mangakuto.com/)                                                                                                                                                                                                                                                                                                |     |
+
+
