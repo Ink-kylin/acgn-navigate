@@ -15,20 +15,21 @@
 
 ## AI
 
-Midjourney
+| 国家 | 公司组织 |
+| ---- | -------- |
+| 欧美 |  [Midjourney](https://www.midjourney.com)        |
+
+[nightcafe](https://creator.nightcafe.studio/)
+[NovelAI](https://novelai.net)
+
+https://colab.research.google.com/drive/1X-62QjZJpZ5Ewo3w6xr9D23Tu90udvQI#scrollTo=OpwFjWQFaGVR
 
 ## 论坛
 
 
-
-- [ArtStation](https://www.artstation.com)
-- [pixiv](https://www.pixiv.net/)
 
 **动画师**
 
 - [たる丸](https://twitter.com/tarumaru0/media)
 
 
-
-下载 学历注册备案表 如下：
-https://www.chsi.com.cn/

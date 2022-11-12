@@ -10,6 +10,7 @@
 - 你所期望的永远 | 君が望む永遠
 - 誘惑カウントダウン
 - 世纪末超自然学院
+- [恋爱FLOPS](https://loveflops.com/)
 
 **国产**
 
@@ -20,4 +21,4 @@
 
 - 国内
 	- [次元小镇](https://dimtown.com)
-	- 
+	- [5dm](https://www.5dm.one)

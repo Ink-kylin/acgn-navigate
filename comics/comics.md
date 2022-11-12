@@ -58,6 +58,10 @@ YES, My Darling
 
 **韩国**
 
+重生不良少教主
+
+落乡文士传
+
 富家女姐姐
 
 这个世界的后宫骑士 This World’s Harem Knight
@@ -69,7 +73,6 @@ YES, My Darling
 **中国**
 
 [Re.MαiΚΛ] 隐匿之恶
-
 
 我的女友怪怪的
 
@@ -83,7 +86,7 @@ YES, My Darling
 
 她们说我是未来之王
 
-[开局一座山](https://space.bilibili.com/451182083/channel/collectiondetail?sid=349612 "开局一座山")
+开局一座山
 
 我的女友怪怪的
 
@@ -99,8 +102,8 @@ YES, My Darling
 | 国家 | 网站                                                                                                                                                                                                                                                                                            |     |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 日本 |   [Comic/R18](https://r18.cmz.jp/) [Pocket](https://pocket.shonenmagazine.com/) •  [# 周刊少年Jump](https://www.shonenjump.com/j/index.html) • [Pixiv 漫画](https://www.pixiv.net/manga) • [niconico 静画](https://seiga.nicovideo.jp/) • [comic-walker](https://comic-walker.com/)                                                                                                                                                                                                                                                                                        |     |
-| 韩国 | [Webtoon](https://www.webtoons.com/zh-hant/) • [Toomics](https://toomics.com/sc) • [Bomtoon](https://www.bomtoon.com/) • [Comico](https://www.comico.kr/) • [KAKAO WEBTOON](https://tw.kakaowebtoon.com) • [kakaopage](https://page.kakao.com/main) • [Lezhin Comics](https://www.lezhinus.com) • [Naver webtoon](https://webtoonscorp.com/) • [Toptoon](https://www.toptoon.net/) |     |
-| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/)  [拷贝漫画](https://www.copymanga.site)                                                                                                                                  |     |
-| 欧美     | [Tachiyomi](https://tachiyomi.org/) [mangakuto](https://mangakuto.com/)                                                                                                                                                                                                                                                                                                |     |
+| 韩国 | [Webtoon](https://www.webtoons.com) • [Toomics](https://toomics.com/sc) • [Bomtoon](https://www.bomtoon.com/) • [Comico](https://www.comico.kr/) • [KAKAO WEBTOON](https://tw.kakaowebtoon.com) • [kakaopage](https://page.kakao.com/main) • [Lezhin Comics](https://www.lezhinus.com) • [Naver webtoon](https://webtoonscorp.com/) • [Toptoon](https://www.toptoon.net/) |     |
+| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/)  [拷贝漫画](https://www.copymanga.site) [哔咔漫画](https://www.picacomic.com)                                                                                                                                 |     |
+| 欧美     | [Tachiyomi](https://tachiyomi.org/) [mangakuto](https://mangakuto.com/) [E-HENTAI](https://e-hentai.org/)                                                                                                                                                                                                                                                                                               |     |
 
 

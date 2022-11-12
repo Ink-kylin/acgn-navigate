@@ -89,5 +89,5 @@
 | 国家 | 网站                                                                                                        |
 | ---- | ----------------------------------------------------------------------------------------------------------- |
 | 日本 | [GA文库](https://ga.sbcr.jp/) [sneakerbunko](https://sneakerbunko.jp/) [电击文库](https://dengekibunko.jp/) |
-| 中国 | [轻小说国度](https://www.lightnovel.us/cn/) -                                                               |
+| 中国 | [轻小说国度](https://www.lightnovel.us/cn/) [第一版主](www.01bz.wang)                                                               |
 | 欧美 |   [书伴](https://bookfere.com/)                                                                                                         |

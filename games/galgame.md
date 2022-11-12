@@ -95,6 +95,9 @@ Strawberry Nauts
 | 欧美 |      [The Visual Novel Database](https://vndb.org/)[GGBases](https://ggbases.dlgal.com/)[Anime-sharing](http://www.anime-sharing.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 - [萌娘百科](https://zh.moegirl.org.cn/)
 
+
+免费的漫画图库系统
+
 ## 同人网站
 
 ---
@@ -102,6 +105,8 @@ Strawberry Nauts
 | 国家 | 网站 |
 |:----:| :----: |
 |  日本    |  [DLsite](https://www.dlsite.com)    |
+
+
 
 
 ## 资讯
