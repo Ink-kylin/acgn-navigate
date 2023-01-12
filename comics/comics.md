@@ -1,20 +1,22 @@
-# 漫画
-
 
 **其他**
 
 史诗级枪骑士再临
 
-
 **日本**
 
-| 分类 | 名称 |
-| ---- | ---- |
-| 恋爱     |  超超超超超喜欢你的100个女朋友    |
+| 分类 | 名称                            |
+| ---- | ------------------------------- |
+| 恋爱 | 超超超超超喜欢你的 100 个女朋友 |
 
+即使在过于残酷的异世界我也很可爱 残虐すぎる異世界でも鈴木は可愛い
+
+感染INFECTION
 
 闲散农家的乱码技能
 魔都精兵的奴隶
+
+世話焼き男子にダメにされちゃう女神様
 
 孔雀王
 
@@ -38,7 +40,7 @@
 
 恋爱无法被双子除尽
 
-文豪に猫 
+文豪に猫
 
 シンデレラは探さない (灰姑娘不会去找王子)
 
@@ -70,9 +72,13 @@ YES, My Darling
 
 星座圣人大战
 
+小心你后面
+
 **中国**
 
 [Re.MαiΚΛ] 隐匿之恶
+
+灵墟游记
 
 我的女友怪怪的
 
@@ -96,14 +102,15 @@ YES, My Darling
 
 [冰雪公主与沙滩男孩](https://www.bilibili.com/video/BV13Z4y1b7cu?spm_id_from=333.999.0.0&vd_source=5bf05843ff6ab5a61fa9a5d950358621)
 
-
 # 漫画网站
 
-| 国家 | 网站                                                                                                                                                                                                                                                                                            |     |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 日本 |   [Comic/R18](https://r18.cmz.jp/) [Pocket](https://pocket.shonenmagazine.com/) •  [# 周刊少年Jump](https://www.shonenjump.com/j/index.html) • [Pixiv 漫画](https://www.pixiv.net/manga) • [niconico 静画](https://seiga.nicovideo.jp/) • [comic-walker](https://comic-walker.com/)                                                                                                                                                                                                                                                                                        |     |
+| 国家 | 网站                                                                                                                                                                                                                                                                                                                                                                      |     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 日本 | [Comic/R18](https://r18.cmz.jp/) [Pocket](https://pocket.shonenmagazine.com/) • [# 周刊少年 Jump](https://www.shonenjump.com/j/index.html) • [Pixiv 漫画](https://www.pixiv.net/manga) • [niconico 静画](https://seiga.nicovideo.jp/) • [comic-walker](https://comic-walker.com/)                                                                                         |     |
 | 韩国 | [Webtoon](https://www.webtoons.com) • [Toomics](https://toomics.com/sc) • [Bomtoon](https://www.bomtoon.com/) • [Comico](https://www.comico.kr/) • [KAKAO WEBTOON](https://tw.kakaowebtoon.com) • [kakaopage](https://page.kakao.com/main) • [Lezhin Comics](https://www.lezhinus.com) • [Naver webtoon](https://webtoonscorp.com/) • [Toptoon](https://www.toptoon.net/) |     |
-| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/)  [拷贝漫画](https://www.copymanga.site) [哔咔漫画](https://www.picacomic.com)                                                                                                                                 |     |
-| 欧美     | [Tachiyomi](https://tachiyomi.org/) [mangakuto](https://mangakuto.com/) [E-HENTAI](https://e-hentai.org/)                                                                                                                                                                                                                                                                                               |     |
+| 中国 | [哔哩哔哩漫画](https://manga.bilibili.com/) • [动漫之家](https://www.dmzj.com/) • [快看漫画](https://www.kuaikanmanhua.com/) • [腾讯动漫](https://ac.qq.com/) [拷贝漫画](https://www.copymanga.site) [哔咔漫画](https://www.picacomic.com)                                                                                                                                |     |
+| 欧美 | [Tachiyomi](https://tachiyomi.org/) [mangakuto](https://mangakuto.com/) [E-HENTAI](https://e-hentai.org/)                                                                                                                                                                                                                                                                 |     |
 
 
+
+插画年鉴
