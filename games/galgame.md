@@ -1,10 +1,13 @@
-
-## 模拟器
-
-Tyranor
-
 ## 待整理
 
+happiness double room
+美少女梦工厂
+猫研社 Cat’sKiss
+怠惰的怪兽公主不想工作
+冥婚交流中心
+我和爱绪同居
+冬日狂想曲
+夏日搜寻
 地味めな侍女さんのお仕事セックス ～お嬢様に代わってお相手します～
 
 符文工坊
@@ -17,7 +20,7 @@ Extralife
 
 日向千寻的工作总是做不久
 
-[異世界酒場のセクステット ～Vol.3 Postlude Days～](https://galge.fun/subjects/9622)
+[異世界酒場のセクステット ～ Vol.3 Postlude Days ～](https://galge.fun/subjects/9622)
 
 [ホームメイドスイートピー](http://silkysconnect.jp/homemaid/index.html)
 
@@ -25,47 +28,43 @@ Extralife
 
 Secret Pie
 
-僕の未来は、恋と課金と。～Charge To The Future～
+僕の未来は、恋と課金と。～ Charge To The Future ～
 
 小兵求爱记 (Love Esquire)
 
-恋心如花悄绚烂 
+恋心如花悄绚烂
 
-你喜欢的是哪一个我 
+你喜欢的是哪一个我
 
-E学院生活 
+E 学院生活
 
-恋慕之心的交织方式 
+恋慕之心的交织方式
 
 Strawberry Nauts
 
 暧昧便利店 | Some Some Convenience Store
 
-
-
 ### 代理汉化平台
 
 [HityHity](https://www.hityhity.com/)
 
-
-### 日本Galgame公司
+### 日本 Galgame 公司
 
 ---
 
-|      系别       | 公司 |
-|:---------------:|:----:|
-|   AQUAPLUS系    |      |
-|  VISUAL ARTS系  |      |
-|    CIRCUS系     |      |
-|     CUFFS系     |      |
-|  CyberFront系   |      |
-|  Clear Blue系   |      |
-| Champion Soft系 |      |
-|     STACK系     |      |
-|     ACID系      |      |
-| Robo Planning系 |      |
-|                 |      |
-
+|       系别       | 公司 |
+| :--------------: | :--: |
+|   AQUAPLUS 系    |      |
+|  VISUAL ARTS 系  |      |
+|    CIRCUS 系     |      |
+|     CUFFS 系     |      |
+|  CyberFront 系   |      |
+|  Clear Blue 系   |      |
+| Champion Soft 系 |      |
+|     STACK 系     |      |
+|     ACID 系      |      |
+| Robo Planning 系 |      |
+|                  |      |
 
 [Atelier KAGUYA-竹子社](http://www.a-kaguya.com/)
 [AzarashiSoft-海豹社](http://azarashi-soft.nexton-net.jp/)
@@ -80,7 +79,7 @@ Strawberry Nauts
 [夜羊社](https://yorunohitsuji.xii.jp/)
 [戯画](http://www.web-giga.com/game-list/index.html)
 [WAFFLE](http://www.waffle1999.com/)
-[MARMALADE](http://www.web-marmalade.com/index2.html) 
+[MARMALADE](http://www.web-marmalade.com/index2.html)
 [FAVORITE](http://www.favo-soft.jp/soft/top.html)
 [CRYSTALiA-水晶社](http://crystalia.amusecraft.com/)
 [qureate](https://qureate.co.jp/)
@@ -89,20 +88,20 @@ Strawberry Nauts
 **中国**
 
 发行商
+
 - [Kagura Games](https://www.kaguragames.com/)
 
-
-## Galgame论坛
+## Galgame 论坛
 
 ---
 
-| 国家 |                                                                                                                                                                                                                                                                     公司                                                                                                                                                                                                                                                                     |
-|:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 中国 | [SS同盟](https://sstm.moe/) [TimesACG](https://www.acg23.com/) [月幕Gal](https://www.ymgal.com/) [绅士咖啡厅](https://sskft.xyz) [KDays](https://bbs2.kdays.net/) [KF绯月](https://bbs.kfpromax.com/index.php) [初音的青葱](https://www.yngal.com/) [忧郁的弟弟](https://www.okloli.com) [喵窝](https://www.nyavoo.com/) [northplus](https://bbs.imoutolove.me/) [次元love](https://www.ciyuanlove.com/) [Bangumi](https://bangumi.tv/) [天使二次元](https://www.tianshi2.cc/) [终点论坛](https://bbs.zdfx.net/) [2DFan](https://galge.fun/) |
-| 日本 |                                                                                                                                                                                           [批评空间](http://erogamescape.dyndns.org/)[Getchu](http://www.getchu.com/top.html)[DMM.com](https://www.dmm.com/) [誠也の部屋](https://seiya-saiga.com)                                                                                                                                                                                           |
-| 欧美 |      [The Visual Novel Database](https://vndb.org/)[GGBases](https://ggbases.dlgal.com/)[Anime-sharing](http://www.anime-sharing.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-- [萌娘百科](https://zh.moegirl.org.cn/)
+| 国家 |                                                                                                                                                                                                                                                                       公司                                                                                                                                                                                                                                                                       |
+| :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 中国 | [SS 同盟](https://sstm.moe/) [TimesACG](https://www.acg23.com/) [月幕 Gal](https://www.ymgal.com/) [绅士咖啡厅](https://sskft.xyz) [KDays](https://bbs2.kdays.net/) [KF 绯月](https://bbs.kfpromax.com/index.php) [初音的青葱](https://www.yngal.com/) [忧郁的弟弟](https://www.okloli.com) [喵窝](https://www.nyavoo.com/) [northplus](https://bbs.imoutolove.me/) [次元 love](https://www.ciyuanlove.com/) [Bangumi](https://bangumi.tv/) [天使二次元](https://www.tianshi2.cc/) [终点论坛](https://bbs.zdfx.net/) [2DFan](https://galge.fun/) |
+| 日本 |                                                                                                                                                                                             [批评空间](http://erogamescape.dyndns.org/)[Getchu](http://www.getchu.com/top.html)[DMM.com](https://www.dmm.com/) [誠也の部屋](https://seiya-saiga.com)                                                                                                                                                                                             |
+| 欧美 |                                                                                                                                                                                                         [The Visual Novel Database](https://vndb.org/)[GGBases](https://ggbases.dlgal.com/)[Anime-sharing](http://www.anime-sharing.com)                                                                                                                                                                                                         |
 
+- [萌娘百科](https://zh.moegirl.org.cn/)
 
 免费的漫画图库系统
 
@@ -110,12 +109,9 @@ Strawberry Nauts
 
 ---
 
-| 国家 | 网站 |
-|:----:| :----: |
-|  日本    |  [DLsite](https://www.dlsite.com)    |
-
-
-
+| 国家 |               网站               |
+| :--: | :------------------------------: |
+| 日本 | [DLsite](https://www.dlsite.com) |
 
 ## 资讯
 
