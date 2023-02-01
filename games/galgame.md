@@ -39,10 +39,13 @@ E学院生活
 
 Strawberry Nauts
 
+暧昧便利店 | Some Some Convenience Store
 
 
 
-## 外部连接
+### 代理汉化平台
+
+[HityHity](https://www.hityhity.com/)
 
 
 ### 日本Galgame公司

@@ -22,3 +22,16 @@ Ruina 废都物语
 
 
 魂器学院
+
+资源网站
+
+[softcobra](https://softcobra.com/)
+
+[nxbrew](https://nxbrew.com/)
+
+[nsw2u](https://nsw2u.com/)
+
+[romspure](https://romspure.cc/roms/switch)
+
+[yuzuroms](http://www.yuzuroms.tk/)
+
