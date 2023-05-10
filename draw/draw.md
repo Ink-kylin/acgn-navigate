@@ -13,17 +13,6 @@
 - [Jisu Choe](https://jisuchoe.artstation.com/)
 
 
-## AI
-
-| 国家 | 公司组织 |
-| ---- | -------- |
-| 欧美 |  [Midjourney](https://www.midjourney.com)        |
-
-[nightcafe](https://creator.nightcafe.studio/)
-[NovelAI](https://novelai.net)
-
-https://colab.research.google.com/drive/1X-62QjZJpZ5Ewo3w6xr9D23Tu90udvQI#scrollTo=OpwFjWQFaGVR
-
 ## 论坛
 
 

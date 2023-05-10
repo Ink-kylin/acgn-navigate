@@ -3,12 +3,17 @@
 
 森薰（Mori Kaoru、もり かおる）
 
+楠木同学高中出道失败了
+
 **其他**
 
 史诗级枪骑士再临
 
 **日本**
 
+-    恋愛ハーレムゲーム終了のお知らせがくる頃に) ｜ 恋爱后宫游戏结束的通知到来之时 
+- 宅男辣妹勤俭同居记
+- 成为冒险家吧
 
 超超超超超喜欢你的 100 个女朋友
 
@@ -106,6 +111,11 @@ YES, My Darling
 **欧美**
 
 [冰雪公主与沙滩男孩](https://www.bilibili.com/video/BV13Z4y1b7cu?spm_id_from=333.999.0.0&vd_source=5bf05843ff6ab5a61fa9a5d950358621)
+
+## 杂志
+
+- COMIC高 | コミックこう & [茜新社](http://www.akaneshinsha.co.jp/) & [Comic 群青](https://twitter.com/kou_jk)
+
 
 # 漫画网站
 

@@ -2,6 +2,8 @@
 
 **日本**
 
+娇娃夏生的危机 なつきクライシス (1994)
+
 - [魔女兵器](https://zh.moegirl.org.cn/%E9%AD%94%E5%A5%B3%E5%85%B5%E5%99%A8)
 - 异世界的圣机师物语
 - [京骚戏画](https://zh.moegirl.org.cn/%E4%BA%AC%E9%AA%9A%E6%88%8F%E7%94%BB)
@@ -22,3 +24,4 @@
 - 国内
 	- [次元小镇](https://dimtown.com)
 	- [5dm](https://www.5dm.one)
+crunchyroll
