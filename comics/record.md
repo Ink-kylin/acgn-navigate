@@ -84,6 +84,9 @@ YES, My Darling
 
 小心你后面
 
+铁血剑猎犬的复仇
+
+我上了一课世界树
 **中国**
 
 [Re.MαiΚΛ] 隐匿之恶
@@ -127,5 +130,9 @@ YES, My Darling
 | 欧美 | [Tachiyomi](https://tachiyomi.org/) [mangakuto](https://mangakuto.com/) [E-HENTAI](https://e-hentai.org/)                                                                                                                                                                                                                                                                 |     |
 
 
+
+### R18
+
+[Komiflo](https://komiflo.com/)
 
 插画年鉴

@@ -1,3 +1,6 @@
+
+[flysheep资源避难所](http://flysheep.ysepan.com/)
+
 # 游戏
 
 来自边境

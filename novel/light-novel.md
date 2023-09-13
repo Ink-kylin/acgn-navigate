@@ -21,14 +21,17 @@
     -   [尖端出版](https://zh.moegirl.org.cn/index.php?title=%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88&action=edit&redlink=1 "尖端出版（页面不存在）")
     -   [东立出版社](https://zh.moegirl.org.cn/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE "东立出版社")
     -   [长鸿出版社](https://zh.moegirl.org.cn/%E9%95%BF%E9%B8%BF%E5%87%BA%E7%89%88%E7%A4%BE "长鸿出版社")
-    -   [台湾角川](https://zh.moegirl.org.cn/%E5%8F%B0%E6%B9%BE%E8%A7%92%E5%B7%9D "台湾角川")
+    -   [台湾角川](https://www.kadokawa.com.tw/)
 -   大陆
     -   [天闻角川](https://zh.moegirl.org.cn/%E5%A4%A9%E9%97%BB%E8%A7%92%E5%B7%9D "天闻角川")
     -   [99读书人](https://zh.moegirl.org.cn/99%E8%AF%BB%E4%B9%A6%E4%BA%BA "99读书人")
     -   [力潮文创](https://zh.moegirl.org.cn/index.php?title=%E5%8A%9B%E6%BD%AE%E6%96%87%E5%88%9B&action=edit&redlink=1 "力潮文创（页面不存在）")（千本樱文库）
-    -   [次元书馆](https://zh.moegirl.org.cn/index.php?title=%E6%AC%A1%E5%85%83%E4%B9%A6%E9%A6%86&action=edit&redlink=1 "次元书馆（页面不存在）")
+    -   [次元书馆]()
+### 韩国
 
-
+- seednovel
+- [노블엔진](https://novelengine.com/novelengine_new/)
+- Vnovel
 ### 作品收录
 
 - 完璧な俺の青春ラブコメ
@@ -48,3 +51,10 @@
 - 听到涛声 (海がきこえる)
 - 请别忧伤了二之宫君 (ご愁伤さま二ノ宫くん)
 - 男嫌いな美人姉妹を名前も告げずに助けたら一体どうなる？ |  没告知姓名帮助了讨厌男人的美女姐妹后到底会变成什么样?
+- 这个三角恋爱喜剧有义务变得幸福
+- 不过是跟表姐妹的恋爱物语 | たかが従姉妹との恋
+
+韩国
+
+- 反逆骑士的圣女篡夺
+- The Demon Prince goes to the Academy | 魔王在学校的生活

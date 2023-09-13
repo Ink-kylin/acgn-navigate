@@ -16,6 +16,8 @@
 
 **国产**
 
+仙武传
+不灭神王
 果宝特攻
 
 
@@ -24,4 +26,5 @@
 - 国内
 	- [次元小镇](https://dimtown.com)
 	- [5dm](https://www.5dm.one)
+	- https://t.me/galgameonHCG
 crunchyroll
