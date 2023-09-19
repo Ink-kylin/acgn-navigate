@@ -1,9 +1,24 @@
 
+
 [让Galgame在ArchLinux通过Wine正确运行 | 砂糖砂糖沙](https://blacksand.top/2021/08/25/%E8%AE%A9Galgame%E5%9C%A8ArchLinux%E9%80%9A%E8%BF%87Wine%E6%AD%A3%E7%A1%AE%E8%BF%90%E8%A1%8C/#Wine%E7%9B%B8%E5%85%B3%E8%BF%90%E8%A1%8C%E5%BA%93%E9%85%8D%E7%BD%AE)
 ## Company
 
+### Japan
 
-## Community
+- [azarashi](http://azarashi-soft.nexton-net.jp/top.html)
+	- [azarashi plusone](http://azarashi-soft-plusone.nexton-net.jp/top.html)
+- [A-KAGUYA](http://www.a-kaguya.com/top.html)
+- [裸足少女](https://hadashi.product.co.jp/main.html)
+
+- 🔞[BISHOP](http://www.bishop.jp/top.html)
+- 🔞[Guilty](http://www.guilty-soft.com/)
+
+
+```dataview
+TABLE author, published, file.inlinks AS "Mentions"
+FROM #poems
+WHERE author = "Edgar Allan Poe"
+```
 
 - [オンラインゲーム - DMM GAMES](https://games.dmm.com/)
 -  [DLsite](https://www.dlsite.com) 
@@ -40,7 +55,7 @@
 - [景の海のアペイリア](http://www.silkysplus.jp/game/apeiria/index.html)
 - [さくらの雲＊スカアレットの恋 | 樱色之云绯色之恋](https://cabbage-soft.com/products/scarlet/)
 
-## 拔作
+### 拔作
 
 - 催眠奪女シリーズ
 - [ソープランドのはっしゃくさま](http://www.hendingerg.com/products/hassyakusama/index.html)
