@@ -13,6 +13,8 @@
 - 誘惑カウントダウン
 - 世纪末超自然学院
 - [恋爱FLOPS](https://loveflops.com/)
+- Tattoon Master 魔印传说
+- [RAITA]絶対純白♡魔法少女 | 绝对纯白魔法少女
 
 **国产**
 
@@ -21,10 +23,16 @@
 果宝特攻
 
 
-资源论坛
+## 论坛
+
+### 中国
 
 - 国内
 	- [次元小镇](https://dimtown.com)
 	- [5dm](https://www.5dm.one)
 	- https://t.me/galgameonHCG
 crunchyroll
+
+### 
+
+- [Anime-Sharing Community](https://www.anime-sharing.com/)

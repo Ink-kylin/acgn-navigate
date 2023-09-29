@@ -4,29 +4,30 @@
 
 ### 日本轻小说出版机构
 
--   [电击文库](https://dengekibunko.jp/)
--   [富士见Fantasia文库](https://zh.moegirl.org.cn/%E5%AF%8C%E5%A3%AB%E8%A7%81Fantasia%E6%96%87%E5%BA%93 "富士见Fantasia文库")
--   [角川Sneaker文库](https://sneakerbunko.jp/)
--   [Fami通文库](https://zh.moegirl.org.cn/Fami%E9%80%9A%E6%96%87%E5%BA%93 "Fami通文库")
--   [SUPER DASH文库](https://zh.moegirl.org.cn/SUPER_DASH%E6%96%87%E5%BA%93 "SUPER DASH文库")
--   [MF文库J](https://zh.moegirl.org.cn/MF%E6%96%87%E5%BA%93J "MF文库J")
--   [HJ文库](https://zh.moegirl.org.cn/HJ%E6%96%87%E5%BA%93 "HJ文库")
--   [GA 文库](https://ga.sbcr.jp/)
+- [电击文库](https://dengekibunko.jp/)
+- [富士见Fantasia文库](https://zh.moegirl.org.cn/%E5%AF%8C%E5%A3%AB%E8%A7%81Fantasia%E6%96%87%E5%BA%93 "富士见Fantasia文库")
+- [角川Sneaker文库](https://sneakerbunko.jp/)
+- [Fami通文库](https://zh.moegirl.org.cn/Fami%E9%80%9A%E6%96%87%E5%BA%93 "Fami通文库")
+- [SUPER DASH文库](https://zh.moegirl.org.cn/SUPER_DASH%E6%96%87%E5%BA%93 "SUPER DASH文库")
+- [MF文库J](https://zh.moegirl.org.cn/MF%E6%96%87%E5%BA%93J "MF文库J")
+- [HJ文库](https://zh.moegirl.org.cn/HJ%E6%96%87%E5%BA%93 "HJ文库")
+- [GA 文库](https://ga.sbcr.jp/)
 - [Fantasia文库](https://fantasiabunko.jp/)
+- [小学館](https://www.shogakukan.co.jp/)
 
 ### 中国代理/出版机构
 
--   港台
-    -   [青文出版社](https://zh.moegirl.org.cn/%E9%9D%92%E6%96%87%E5%87%BA%E7%89%88%E7%A4%BE "青文出版社")
-    -   [尖端出版](https://zh.moegirl.org.cn/index.php?title=%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88&action=edit&redlink=1 "尖端出版（页面不存在）")
-    -   [东立出版社](https://zh.moegirl.org.cn/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE "东立出版社")
-    -   [长鸿出版社](https://zh.moegirl.org.cn/%E9%95%BF%E9%B8%BF%E5%87%BA%E7%89%88%E7%A4%BE "长鸿出版社")
-    -   [台湾角川](https://www.kadokawa.com.tw/)
--   大陆
-    -   [天闻角川](https://zh.moegirl.org.cn/%E5%A4%A9%E9%97%BB%E8%A7%92%E5%B7%9D "天闻角川")
-    -   [99读书人](https://zh.moegirl.org.cn/99%E8%AF%BB%E4%B9%A6%E4%BA%BA "99读书人")
-    -   [力潮文创](https://zh.moegirl.org.cn/index.php?title=%E5%8A%9B%E6%BD%AE%E6%96%87%E5%88%9B&action=edit&redlink=1 "力潮文创（页面不存在）")（千本樱文库）
-    -   [次元书馆]()
+- 港台
+    - [青文出版社](https://zh.moegirl.org.cn/%E9%9D%92%E6%96%87%E5%87%BA%E7%89%88%E7%A4%BE "青文出版社")
+    - [尖端出版](https://zh.moegirl.org.cn/index.php?title=%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88&action=edit&redlink=1 "尖端出版（页面不存在）")
+    - [东立出版社](https://zh.moegirl.org.cn/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE "东立出版社")
+    - [长鸿出版社](https://zh.moegirl.org.cn/%E9%95%BF%E9%B8%BF%E5%87%BA%E7%89%88%E7%A4%BE "长鸿出版社")
+    - [台湾角川](https://www.kadokawa.com.tw/)
+- 大陆
+    - [天闻角川](https://zh.moegirl.org.cn/%E5%A4%A9%E9%97%BB%E8%A7%92%E5%B7%9D "天闻角川")
+    - [99读书人](https://zh.moegirl.org.cn/99%E8%AF%BB%E4%B9%A6%E4%BA%BA "99读书人")
+    - [力潮文创](https://zh.moegirl.org.cn/index.php?title=%E5%8A%9B%E6%BD%AE%E6%96%87%E5%88%9B&action=edit&redlink=1 "力潮文创（页面不存在）")（千本樱文库）
+    - [次元书馆]()
 ### 韩国
 
 - seednovel
@@ -53,8 +54,12 @@
 - 男嫌いな美人姉妹を名前も告げずに助けたら一体どうなる？ |  没告知姓名帮助了讨厌男人的美女姐妹后到底会变成什么样?
 - 这个三角恋爱喜剧有义务变得幸福
 - 不过是跟表姐妹的恋爱物语 | たかが従姉妹との恋
+- [恋は双子で割り切れない](https://dengekibunko.jp/special/futakire/)
+- [たかが従姉妹との恋 不过是跟表姐妹的恋爱物语](https://www.shogakukan.co.jp/books/09453103)
+- [狂怒的暴食 ～只有我突破了等级这概念～ 暴食のベルセルク　|～俺だけレベルという概念を突破する～](https://www.mangaupdates.com/series/6djuhw7/boushoku-no-berserk-ore-dake-level-to-iu-gainen-o-toppa-suru-novel)
 
 韩国
 
 - 反逆骑士的圣女篡夺
 - The Demon Prince goes to the Academy | 魔王在学校的生活
+	- 漫画

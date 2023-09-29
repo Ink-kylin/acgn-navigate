@@ -3,6 +3,8 @@
 
 # 游戏
 
+- [StudioSai Eternights](https://www.studiosai.dev/eternights)
+- [圣兽之王](https://asia.sega.com/unicorn-overlord/cn/)
 来自边境
 迷宫物语
 
