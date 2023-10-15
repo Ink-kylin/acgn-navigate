@@ -13,6 +13,7 @@
 - [entergram](http://www.entergram.co.jp/)
 	- 戯画🔐
 - [hook](https://www.hook-net.jp/)
+- [オメガスターのホームページへようこそ](http://www.omega-star.jp/)
 
 - 🔞[BISHOP](http://www.bishop.jp/top.html)
 - 🔞[Guilty](http://www.guilty-soft.com/)
