@@ -2,6 +2,9 @@
 
 **日本**
 
+[Shelter (Official Video)](https://www.youtube.com/watch?v=fzQ6gRAEoy0&feature=youtu.be&themeRefresh=1)
+
+
 娇娃夏生的危机 なつきクライシス (1994)
 
 - [魔女兵器](https://zh.moegirl.org.cn/%E9%AD%94%E5%A5%B3%E5%85%B5%E5%99%A8)

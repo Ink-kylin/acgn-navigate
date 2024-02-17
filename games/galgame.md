@@ -5,6 +5,19 @@
 
 ### Japan
 
+- [astronauts 宇航社](http://www.astronauts.co.jp/top.html)
+	- [深淵のラビリントス 深渊的迷宫](http://www.astronauts.co.jp/sirius/loa/)
+	- [ダンジョン オブ レガリアス 〜背徳の都イシュガリア〜](http://www.astronauts.co.jp/sirius/regalias/index.html)
+	- [極限痴漢特異点]()
+
+- [eukleia](https://www.eukleia.co.jp/eushully/main.html)
+	- [天冥的征服者](https://www.eukleia.co.jp/eushully/eu020.html)
+
+- [GINKA](https://2dfan.org/subjects/10866)
+- [FrontWing](http://frontwing.jp/)
+	- 灰色三部曲
+	- ISLAND
+	- GINKA
 - [azarashi](http://azarashi-soft.nexton-net.jp/top.html)
 	- [azarashi plusone](http://azarashi-soft-plusone.nexton-net.jp/top.html)
 - [A-KAGUYA](http://www.a-kaguya.com/top.html)
@@ -20,6 +33,7 @@
 
 - other
 	- [永遠の文芸部 公開フリーゲーム一覧 by ふりーむ！](https://www.freem.ne.jp/brand/189)
+	- [Loveplus | 爱相随](https://mzh.moegirl.org.cn/%E7%88%B1%E7%9B%B8%E9%9A%8F%E7%B3%BB%E5%88%97)
 
 
 
@@ -38,7 +52,7 @@
 
 ✔️表示已下载
 
-- [AMBITIOUS MISSION](http://sagapla.net/works/ambitious/index.html#top)✔️
+- [AMBITIOUS MISSION](http://sagapla.net/works/ambitious/index.html#top) ✔️
 - [放課後シンデレラ２](https://www.hook-net.jp/houkago2/)
 - [サメと生きる七日間](https://www.cuffs.co.jp/products/samenana/)
 - [ハミダシクリエイティブ凸](https://madosoft.net/totsu/) | 常轨脱离Creative凸
@@ -57,11 +71,6 @@
 - [이야기 가게](http://www.talesshop.com/?page=product&query=some) | 暧昧便利店
 - Secret Pie
 - 黄昏のシンセミア | 黄昏的禁忌之药
-
-
-
-### 拔作
-
 - 催眠奪女シリーズ
 - [極限痴漢特異点３　千年の劣情　オフィシャルサイト| アストロノーツ・シリウス](http://astronauts.co.jp/sirius/emt3/index.html)
 - [ソープランドのはっしゃくさま](http://www.hendingerg.com/products/hassyakusama/index.html)
@@ -70,8 +79,11 @@
 - [妖夢員:The Nightmaretaker ～悪魔に憑かれた男～](https://www.dlsite.com/maniax/work/=/product_id/RJ01048672.html)✔️
 - [地味めな侍女さんのお仕事セックス ～お嬢様に代わってお相手します～](https://www.dlsite.com/pro/work/=/product_id/VJ012524.html)
 
-## other
 
+[我与公主骑士及侍女的慢活生活](https://store.steampowered.com/app/1934900/_/?l=schinese)
+## 国产
+
+- [我和妹子的爱恨情仇](https://store.steampowered.com/app/2425380/_/)
 - 剑侠．风尘恋曲
 
 Fate/Empire of Dirt
@@ -105,4 +117,9 @@ Extralife
 - [Kagura Games](https://www.kaguragames.com/)
 
 
+期刊
+
+🚫停刊
+
+- 二次元狂热🚫
 

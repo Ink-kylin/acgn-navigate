@@ -43,7 +43,9 @@
 - [米山舞](https://twitter.com/yoneyamai) 
 - [八宝備仁](https://twitter.com/HAPPOBIJIN)
 - [Anmi](https://www.pixiv.net/users/212801) 
-- 市川小紗 
+- 市川小紗
+- 唯々月たすく| 唯唯月佑
+- ピロ水
 - 吉野恵子
 - [ぢょん](https://twitter.com/nonohara_dyon3/media)
 - [BIYA](https://www.pixiv.net/users/59275588/artworks)

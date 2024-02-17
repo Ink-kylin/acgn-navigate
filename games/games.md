@@ -3,6 +3,8 @@
 
 # 游戏
 
+[地心歸途](https://store.steampowered.com/app/2171630/_/?l=tchinese)
+
 ## 卡牌
 
 - [无名杀](https://qinkunwei.gitee.io/noname2/)

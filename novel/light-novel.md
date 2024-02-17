@@ -57,6 +57,12 @@
 - [恋は双子で割り切れない](https://dengekibunko.jp/special/futakire/)
 - [たかが従姉妹との恋 不过是跟表姐妹的恋爱物语](https://www.shogakukan.co.jp/books/09453103)
 - [狂怒的暴食 ～只有我突破了等级这概念～ 暴食のベルセルク　|～俺だけレベルという概念を突破する～](https://www.mangaupdates.com/series/6djuhw7/boushoku-no-berserk-ore-dake-level-to-iu-gainen-o-toppa-suru-novel)
+- [血の繋がらない私たちが家族になるたった一つの方法 | 没有血缘关系的我们成为家人的唯一方法](https://sneakerbunko.jp/news/event/entry-10885.html)
+- 『[你为什么不把双胞胎变成你的 “女朋友 ”呢？](< [https://fantasiabunko.jp/special/202311futago/](https://fantasiabunko.jp/special/202311futago/) >)（いきなり抱きしめられるとめちゃくちゃキュンキュンするんですけど…!?）
+
+  
+  
+
 
 韩国
 
