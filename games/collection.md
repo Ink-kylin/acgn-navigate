@@ -9,6 +9,7 @@
 - [GitHub - tkashkin/GameHub: All your games in one place](https://github.com/tkashkin/GameHub)
 - Gnome Games
 - [Fetching Title#e2il](https://rawg.io/)
+- [Playnite](https://playnite.link/)
 
 | 名称 | 支持平台 | 说明 |
 | ---- | -------- | ---- |
