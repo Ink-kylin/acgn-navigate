@@ -8,4 +8,4 @@
 - [Revenge of the Baskerville Bloodhound - 铁血剑家猎犬的回归]( https://www.mangaupdates.com/series/5v7h9gf/revenge-of-the-baskerville-bloodhound
 - [MILF Hunter in Another World - Baka-Updates Manga](https://www.mangaupdates.com/series/li9fxrf/milf-hunter-in-another-world)
 - [ERO 404] MILF Hunter in Another World | 人妻獵人
-
+- 配角在学院生存活
