@@ -78,6 +78,7 @@
 - [Bloods～淫落の血族2～](https://www.getchu.com/soft.phtml?id=686399&gc=gc)
 - [妖夢員:The Nightmaretaker ～悪魔に憑かれた男～](https://www.dlsite.com/maniax/work/=/product_id/RJ01048672.html)✔️
 - [地味めな侍女さんのお仕事セックス ～お嬢様に代わってお相手します～](https://www.dlsite.com/pro/work/=/product_id/VJ012524.html)
+- [闇の声ZERO](https://vndb.org/v741#main)
 
 
 [我与公主骑士及侍女的慢活生活](https://store.steampowered.com/app/1934900/_/?l=schinese)

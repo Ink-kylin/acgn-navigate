@@ -56,11 +56,12 @@
 - きまぐれオレンジ☆ロード 橙路
 - 天上天下
 - [作为被背叛了的S级冒险者的我、决定成立一个只有我所爱的奴隶女孩子们的后宫公会 裏切られたSランク冒険者の俺は](https://www.mangaupdates.com/series/89najod/uragirareta-s-rank-boukensha-no-ore-wa-ai-suru-dorei-no-kanojora-to-tomo-ni-dorei-dake-no-harem-guild-wo-tsukuru)
+- [恋喰少女](https://www.mangaupdates.com/series/5jlpvyv/koibami-shoujo)
 
 
 单行本
 
- -
+ 
 - 嚴厲女上司變回高中生後向我撒嬌的原因~兩情相悅重度高中生活~ [德山銀次郎 せなか太郎] 下野くん、ちょっと来なさい（好き！）両片思いの二人が高校生に戻っていちゃいちゃ♥
 
 
@@ -82,6 +83,8 @@
 - [愛上陸] ふぁみこん 1-4 [中国翻訳] [DL 版]
 - [すみやお] キョンシーメイフェイ (永遠娘 6) [中国翻訳]
 - [Junu （Pixiv）] 선생님과 히마리 | 跟老师一起
+-  [桐原湧] 合格通知
+- [はないろすぷーん (くっきおーれ)] PULCHRE BENE RECTE!
 
 
 同人サークル入りませんか  ナビエ遥か2 T

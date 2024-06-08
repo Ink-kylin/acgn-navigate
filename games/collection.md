@@ -14,3 +14,8 @@
 | 名称 | 支持平台 | 说明 |
 | ---- | -------- | ---- |
 
+
+
+## Game library managers
+
+https://www.makeuseof.com/tag/pc-game-launchers/
