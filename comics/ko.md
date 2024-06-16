@@ -9,3 +9,4 @@
 - [MILF Hunter in Another World - Baka-Updates Manga](https://www.mangaupdates.com/series/li9fxrf/milf-hunter-in-another-world)
 - [ERO 404] MILF Hunter in Another World | 人妻獵人
 - 配角在学院生存活
+- pua完全攻略

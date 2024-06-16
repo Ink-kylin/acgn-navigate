@@ -18,7 +18,8 @@
 - [恋爱FLOPS](https://loveflops.com/)
 - Tattoon Master 魔印传说
 - [RAITA]絶対純白♡魔法少女 | 绝对纯白魔法少女
-
+- 受孕屋 | 孕ませ屋
+- 徒系列 堕落天使的低语
 **国产**
 
 仙武传

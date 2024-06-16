@@ -27,7 +27,7 @@
 	- 戯画🔐
 - [hook](https://www.hook-net.jp/)
 - [オメガスターのホームページへようこそ](http://www.omega-star.jp/)
-
+- [AQUAPLUS](https://aquaplus.jp/)
 - 🔞[BISHOP](http://www.bishop.jp/top.html)
 - 🔞[Guilty](http://www.guilty-soft.com/)
 
@@ -79,7 +79,8 @@
 - [妖夢員:The Nightmaretaker ～悪魔に憑かれた男～](https://www.dlsite.com/maniax/work/=/product_id/RJ01048672.html)✔️
 - [地味めな侍女さんのお仕事セックス ～お嬢様に代わってお相手します～](https://www.dlsite.com/pro/work/=/product_id/VJ012524.html)
 - [闇の声ZERO](https://vndb.org/v741#main)
-
+- [岩倉アリア](https://game.mages.co.jp/iwakura-aria/)
+- 迷宫旅人：To Heart 2
 
 [我与公主骑士及侍女的慢活生活](https://store.steampowered.com/app/1934900/_/?l=schinese)
 ## 国产
