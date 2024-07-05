@@ -57,7 +57,7 @@
 - 天上天下
 - [作为被背叛了的S级冒险者的我、决定成立一个只有我所爱的奴隶女孩子们的后宫公会 裏切られたSランク冒険者の俺は](https://www.mangaupdates.com/series/89najod/uragirareta-s-rank-boukensha-no-ore-wa-ai-suru-dorei-no-kanojora-to-tomo-ni-dorei-dake-no-harem-guild-wo-tsukuru)
 - [恋喰少女](https://www.mangaupdates.com/series/5jlpvyv/koibami-shoujo)
-
+- 恋爱后宫游戏结束通知到来之时
 
 单行本
 
