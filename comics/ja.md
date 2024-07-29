@@ -59,6 +59,8 @@
 - [恋喰少女](https://www.mangaupdates.com/series/5jlpvyv/koibami-shoujo)
 - 授課到天亮
 - 恋爱后宫游戏结束通知到来之时
+- sea witch 真木螢五
+
 单行本
 
  
