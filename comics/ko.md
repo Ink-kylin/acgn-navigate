@@ -10,3 +10,4 @@
 - [ERO 404] MILF Hunter in Another World | 人妻獵人
 - 配角在学院生存活
 - pua完全攻略
+- 游戏不能这样玩
