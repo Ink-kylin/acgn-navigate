@@ -1,4 +1,7 @@
 
+[轻小说概述](https://zh.moegirl.org.cn/%E8%BD%BB%E5%B0%8F%E8%AF%B4)
+
+
 ## 出版机构
 
 
@@ -23,16 +26,22 @@
     - [东立出版社](https://zh.moegirl.org.cn/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE "东立出版社")
     - [长鸿出版社](https://zh.moegirl.org.cn/%E9%95%BF%E9%B8%BF%E5%87%BA%E7%89%88%E7%A4%BE "长鸿出版社")
     - [台湾角川](https://www.kadokawa.com.tw/)
+    - [Book Walker](https://www.bookwalker.com.tw/)
 - 大陆
     - [天闻角川](https://zh.moegirl.org.cn/%E5%A4%A9%E9%97%BB%E8%A7%92%E5%B7%9D "天闻角川")
     - [99读书人](https://zh.moegirl.org.cn/99%E8%AF%BB%E4%B9%A6%E4%BA%BA "99读书人")
     - [力潮文创](https://zh.moegirl.org.cn/index.php?title=%E5%8A%9B%E6%BD%AE%E6%96%87%E5%88%9B&action=edit&redlink=1 "力潮文创（页面不存在）")（千本樱文库）
-    - [次元书馆]()
 ### 韩国
 
 - seednovel
 - [노블엔진](https://novelengine.com/novelengine_new/)
 - Vnovel
+
+## 社区论坛&汉化网站
+
+- [轻之国度](https://www.lightnovel.us/cn/site_rule)
+- [轻小说文库](https://www.wenku8.net/register.php) 已关闭
+
 ### 作品收录
 
 - 月光 - 间宫夏生
