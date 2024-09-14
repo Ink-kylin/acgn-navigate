@@ -15,8 +15,6 @@
 
 ## 论坛
 
-
-
 **动画师**
 
 - [たる丸](https://twitter.com/tarumaru0/media)

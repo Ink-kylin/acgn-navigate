@@ -1,10 +1,4 @@
 
-[轻小说概述](https://zh.moegirl.org.cn/%E8%BD%BB%E5%B0%8F%E8%AF%B4)
-
-
-## 出版机构
-
-
 ### 日本轻小说出版机构
 
 - [电击文库](https://dengekibunko.jp/)
@@ -17,76 +11,26 @@
 - [GA 文库](https://ga.sbcr.jp/)
 - [Fantasia文库](https://fantasiabunko.jp/)
 - [小学館](https://www.shogakukan.co.jp/)
+- [kakuyomu](https://kakuyomu.jp/)
+- [小説家になろうは](https://syosetu.com/)
+    - [ミッドナイトノベルズ](https://mid.syosetu.com/top/top/)（成人小说）
+    - [ノクターンノベルズ](https://noc.syosetu.com/)（男性向官能小说）
 
 ### 中国代理/出版机构
 
 - 港台
-    - [青文出版社](https://zh.moegirl.org.cn/%E9%9D%92%E6%96%87%E5%87%BA%E7%89%88%E7%A4%BE "青文出版社")
-    - [尖端出版](https://zh.moegirl.org.cn/index.php?title=%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88&action=edit&redlink=1 "尖端出版（页面不存在）")
-    - [东立出版社](https://zh.moegirl.org.cn/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE "东立出版社")
-    - [长鸿出版社](https://zh.moegirl.org.cn/%E9%95%BF%E9%B8%BF%E5%87%BA%E7%89%88%E7%A4%BE "长鸿出版社")
-    - [台湾角川](https://www.kadokawa.com.tw/)
-    - [Book Walker](https://www.bookwalker.com.tw/)
+    - 青文出版社
+    - 尖端出版
+    - 东立出版社
+    - 长鸿出版社
+    - 台湾角川
+    - Book Walker
+    - 天闻角川
+    - 99读书人
+    - 力潮文创
+
 - 大陆
-    - [天闻角川](https://zh.moegirl.org.cn/%E5%A4%A9%E9%97%BB%E8%A7%92%E5%B7%9D "天闻角川")
-    - [99读书人](https://zh.moegirl.org.cn/99%E8%AF%BB%E4%B9%A6%E4%BA%BA "99读书人")
-    - [力潮文创](https://zh.moegirl.org.cn/index.php?title=%E5%8A%9B%E6%BD%AE%E6%96%87%E5%88%9B&action=edit&redlink=1 "力潮文创（页面不存在）")（千本樱文库）
-### 韩国
-
-- seednovel
-- [노블엔진](https://novelengine.com/novelengine_new/)
-- Vnovel
-
-## 社区论坛&汉化网站
-
-- [轻之国度](https://www.lightnovel.us/cn/site_rule)
-- [轻小说文库](https://www.wenku8.net/register.php) 已关闭
-
-### 作品收录
-
-- 月光 - 间宫夏生
-- さよならウィザード | 再见巫师
-- 我当备胎女友就好
-- 我和女友的妹妹接吻了
-- 妹！生活 ～Monochrome～ 
-- 妹！せいかつ～ファンタジー
-- 俺の妹が最高のオカズだった
-- 俺と仲良し姉妹の淫魔な秘密
-- 在朋友背后与你悄悄签收。谈着无法言说的恋爱
-- 超强度可爱间谍战~优柔寡断的黑姬小姐~
-- 畸恋迷幻
-- 完璧な俺の青春ラブコメ
-- 噬血狂袭
-- [有谁规定了现实中不能有恋爱喜剧的？](https://zh.moegirl.org.cn/%E6%9C%89%E8%B0%81%E8%A7%84%E5%AE%9A%E4%BA%86%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B8%8D%E8%83%BD%E6%9C%89%E6%81%8B%E7%88%B1%E5%96%9C%E5%89%A7%E7%9A%84)
-- [千歳くんはラムネ瓶のなか](https://zh.moegirl.org.cn/%E5%8D%83%E5%B2%81%E5%90%8C%E5%AD%A6%E5%9C%A8%E6%B3%A2%E5%AD%90%E6%B1%BD%E6%B0%B4%E7%93%B6%E5%86%85#%E7%99%BB%E5%9C%BA%E4%BA%BA%E7%89%A9) **千岁同学在波子汽水瓶内**
-- にゃん太とポメ子 **喵太与博美子**
-- 因为是我先喜欢上的
-- 沒有明天的我們，在昨天相戀
-- お兄ちゃんとの本気の恋なんて誰にもバレちゃダメだよね？
-- [侯爵令嬢の借金執事](https://sneakerbunko.jp/series/kousyakureijo/)
-- 見知らぬ女子高生に監禁された漫画家の
-- 这段恋情由前女友赞助
-- 虹色异星人（虹色エイリアン）
-- 企鵝公路
-- [想要成为影之实力者](https://zh.moegirl.org.cn/%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%BD%B1%E4%B9%8B%E5%AE%9E%E5%8A%9B%E8%80%85#) (陰の実力者になりたくて)
-- 听到涛声 (海がきこえる)
-- 请别忧伤了二之宫君 (ご愁伤さま二ノ宫くん)
-- 男嫌いな美人姉妹を名前も告げずに助けたら一体どうなる？ |  没告知姓名帮助了讨厌男人的美女姐妹后到底会变成什么样?
-- 这个三角恋爱喜剧有义务变得幸福
-- 不过是跟表姐妹的恋爱物语 | たかが従姉妹との恋
-- [恋は双子で割り切れない](https://dengekibunko.jp/special/futakire/)
-- [たかが従姉妹との恋 不过是跟表姐妹的恋爱物语](https://www.shogakukan.co.jp/books/09453103)
-- [狂怒的暴食 ～只有我突破了等级这概念～ 暴食のベルセルク　|～俺だけレベルという概念を突破する～](https://www.mangaupdates.com/series/6djuhw7/boushoku-no-berserk-ore-dake-level-to-iu-gainen-o-toppa-suru-novel)
-- [血の繋がらない私たちが家族になるたった一つの方法 | 没有血缘关系的我们成为家人的唯一方法](https://sneakerbunko.jp/news/event/entry-10885.html)
-- 『[你为什么不把双胞胎变成你的 “女朋友 ”呢？](< [https://fantasiabunko.jp/special/202311futago/](https://fantasiabunko.jp/special/202311futago/) >)（いきなり抱きしめられるとめちゃくちゃキュンキュンするんですけど…!?）
-- 我，当备胎女友就可以 | わたし、二番目の彼女でいいから
-
-  
-  
-
-
-韩国
-
-- 反逆骑士的圣女篡夺
-- The Demon Prince goes to the Academy | 魔王在学校的生活
-	- 漫画
+    - [第一版主](www.01bz.wang)
+    - [书伴](https://bookfere.com/)
+    - [轻之国度](https://www.lightnovel.us/cn/site_rule)
+    - [轻小说文库](https://www.wenku8.net/register.php)
